@@ -12,13 +12,14 @@
 }
 
 #article{
-    background-color: rgb(127, 255, 212);
+    background-color: azure;
+    width: 550px ;
 }
 
 #news{
-    width: 500px;
-    height: 1087px;
-    background-color: aquamarine ;
+    width: 445px;
+    height: 1291px;
+    background-color: lightsteelblue;
 }
 
 .Arch{
@@ -53,11 +54,20 @@
 }
 
 #From{
-    background-color: azure;
+    background-color: aquamarine;
 
 
 }
 
 #To{
     background-color: cornflowerblue;
+}
+
+#li{
+    margin: 7px;
+    padding: 10px;
+}
+
+.Ti{
+    white-space: nowrap;
 }
