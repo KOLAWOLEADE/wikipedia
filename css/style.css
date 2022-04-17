@@ -24,3 +24,40 @@
 .Arch{
     float: right;
 }
+
+.Apollo{
+    width: 157px;
+    height: 125px;
+}
+
+.Cru{
+    width: 199px;
+    height: 98px;
+    float: left;
+}
+
+.Har{
+    width: 153px;
+    height: 127px;
+}
+
+.Ric{
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.Codex{
+    width: 153px;
+    height: 127px;
+}
+
+#From{
+    background-color: azure;
+
+
+}
+
+#To{
+    background-color: cornflowerblue;
+}
