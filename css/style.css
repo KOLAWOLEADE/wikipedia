@@ -72,6 +72,10 @@
     background-color: rgba(255, 192, 203, 0.836);
 }
 
+.q{
+    float: right;
+}
+
 .Ti{
     white-space: nowrap;
 }
