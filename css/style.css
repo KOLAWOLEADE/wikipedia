@@ -19,7 +19,7 @@
 #news{
     width: 445px;
     height: 1291px;
-    background-color: lightsteelblue;
+    background-color: azure;
 }
 
 .Arch{
@@ -58,14 +58,18 @@
 
 
 }
+.span {
+    float: left;
+}
 
 #To{
-    background-color: cornflowerblue;
+    background-color: plum;
 }
 
 #li{
     margin: 7px;
     padding: 10px;
+    background-color: rgba(255, 192, 203, 0.836);
 }
 
 .Ti{
